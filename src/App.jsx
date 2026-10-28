@@ -1,10 +1,9 @@
-import LearnEvent from './LearnEvent'
-
-function App() {
-  return (
-    <div>
-      <LearnEvent/>
-    </div>
+import ChangeBoolean from './ChangeBoolean'
+function App(){
+  return(
+    <>
+    <ChangeBoolean/>
+    </>
   )
 }
 
