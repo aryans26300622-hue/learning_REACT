@@ -1,9 +1,12 @@
-import MyForm from './Forms';
+// import List from './list';
+import List2 from "./List2"
 
 function App() {
   return (
     <>
-      <MyForm/>
+      {/* <List/> */}
+      <List2/>
+
     </>
   )
 }
