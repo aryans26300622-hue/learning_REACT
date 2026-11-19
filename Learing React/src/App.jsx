@@ -1,14 +1,14 @@
-// import List from './list';
-import List2 from "./List2"
-
-function App() {
+// import React from 'react'
+import USE_EFFECT from './USE_EFFECT'
+const App = () => {
   return (
-    <>
-      {/* <List/> */}
-      <List2/>
+    <div>
+      <h1>Hello World</h1>
 
-    </>
+      <USE_EFFECT/>
+
+
+    </div>
   )
 }
-
 export default App
